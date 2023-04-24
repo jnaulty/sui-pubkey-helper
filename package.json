@@ -1,0 +1,16 @@
+{
+  "name": "convert-to-sui-b64-pubkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "any.cjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules any.cjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mysten/sui.js": "^0.32.1"
+  }
+}
